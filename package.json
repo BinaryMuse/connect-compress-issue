@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "name": "connect-compress-issue",
+  "description": "Debugging an issue with connect-compress",
+  "version": "0.0.0",
+  "dependencies": {
+    "connect": "~2.3.0",
+    "express": "~2.5.9"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
